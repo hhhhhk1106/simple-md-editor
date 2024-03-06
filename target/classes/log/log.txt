@@ -1,0 +1,1053 @@
+session start at 20231124 19:46:01
+20231124 19:46:09 load test.md
+20231124 19:47:56 list
+20231124 19:48:00 delete a
+20231124 19:48:05 load test1.md
+20231124 19:48:07 list
+20231124 19:48:12 insert 10 bbb
+20231124 19:48:24 exit
+session start at 20231124 19:51:38
+20231124 19:51:43 load test.md
+20231124 19:51:45 stats current
+20231124 19:51:57 load test1.md
+20231124 19:51:59 stats current
+session start at 20231124 19:54:47
+20231124 19:54:51 load test.md
+20231124 19:54:54 stats current
+20231124 19:55:01 load test1.md
+20231124 19:55:03 stats current
+20231124 19:55:06 stats all
+20231124 19:55:15 exit
+test.md 0min
+test1.md 0min
+session start at 20231124 19:59:16
+20231124 19:59:21 load test.md
+20231124 19:59:36 load test1.md
+20231124 19:59:38 stats current
+20231124 19:59:42 open test
+20231124 19:59:44 stats current
+20231124 19:59:49 close
+20231124 20:00:02 stats current
+20231124 20:00:18 stats all
+20231124 20:00:23 list-workspace
+session start at 20231124 20:02:46
+20231124 20:02:51 load test.md
+20231124 20:02:55 stats current
+20231124 20:02:59 load test1.md
+20231124 20:03:01 stats current
+20231124 20:03:04 stats all
+20231124 20:03:07 close
+test1.md 0min
+20231124 20:03:09 stats current
+20231124 20:03:12 stats all
+session start at 20231124 20:04:33
+20231124 20:04:38 load test.md
+20231124 20:04:42 close
+test.md 0min4s
+session start at 20231124 22:24:20
+session start at 20231124 22:25:30
+20231124 22:25:32 ls
+session start at 20231124 22:34:40
+20231124 22:34:46 load test.md
+20231124 22:34:48 list
+session start at 20231124 22:35:44
+20231124 22:35:48 ls
+session start at 20231124 22:41:01
+20231124 22:41:03 ls
+20231124 22:41:07 load test.md
+20231124 22:41:08 ls
+20231124 22:41:14 load test1.md
+20231124 22:41:16 ls
+20231124 22:41:20 close
+test1.md 0min6s
+20231124 22:41:22 ls
+20231124 22:42:32 exit
+test.md 1min25s
+session start at 20231125 16:34:18
+20231125 16:34:28 list-workspace
+20231125 16:34:46 open test
+20231125 16:34:48 list
+session start at 20231125 16:40:12
+20231125 16:40:20 list-workspace
+20231125 16:40:31 load test.md
+20231125 16:40:44 list
+20231125 16:40:54 insert 8 aaa
+20231125 16:41:09 exit
+test.md 0min38s
+session start at 20231125 16:42:02
+20231125 16:42:07 list-workspace
+20231125 16:42:11 load test.md
+20231125 16:42:15 insert 8 aaa
+20231125 16:42:18 exit
+test.md 0min7s
+session start at 20231125 16:42:23
+20231125 16:42:26 list
+20231125 16:42:33 list-workspace
+20231125 16:42:39 undo
+20231125 16:42:44 list-workspace
+20231125 16:43:07 load test1.md
+20231125 16:43:13 insert 11 bbb
+20231125 16:43:19 list-workspace
+20231125 16:43:26 undo
+20231125 16:43:31 exit
+test1.md 0min24s
+session start at 20231125 16:44:49
+20231125 16:44:56 load test.md
+20231125 16:44:58 list
+20231125 16:45:00 exit
+test.md 0min4s
+session start at 20231125 16:48:45
+20231125 16:48:53 load test.md
+20231125 16:48:57 load test1.md
+20231125 16:48:59 list
+20231125 16:49:04 delete bbb
+20231125 16:49:07 undo
+20231125 16:49:14 open test
+20231125 16:49:16 list
+20231125 16:49:19 insert 8 aaa
+20231125 16:49:24 list-workspace
+20231125 16:49:39 exit
+test1.md 0min42s
+test.md 0min46s
+session start at 20231125 16:50:22
+20231125 16:50:28 load test.md
+20231125 16:50:29 list
+20231125 16:50:33 delete aaa
+20231125 16:50:37 load test1.md
+20231125 16:50:40 list
+20231125 16:50:44 delete bbb
+20231125 16:50:51 undo
+20231125 16:51:03 list-workspace
+20231125 16:51:08 exit
+test1.md 0min31s
+test.md 0min40s
+session start at 20231125 16:51:57
+20231125 16:52:02 list-workspace
+20231125 16:52:07 list
+20231125 16:52:11 redo
+20231125 16:52:24 open test1
+20231125 16:52:26 list
+20231125 16:53:38 exit
+test1.md 1min14s
+session start at 20231125 16:58:27
+20231125 16:58:33 list-workspace
+20231125 16:58:42 exit
+session start at 20231125 16:58:49
+20231125 16:58:56 list-workspace
+20231125 16:59:07 exit
+session start at 20231125 16:59:11
+20231125 16:59:15 list-workspace
+session start at 20231125 17:03:53
+20231125 17:04:02 list-workspace
+20231125 17:04:16 close
+session start at 20231125 17:13:35
+20231125 17:13:40 list-workspace
+20231125 17:13:44 load test.md
+20231125 17:13:49 load test1.md
+20231125 17:13:53 insert 10 a
+20231125 17:14:01 list-workspace
+20231125 17:14:06 exit
+test1.md 0min17s
+test.md 0min22s
+session start at 20231125 17:14:15
+20231125 17:14:19 list-workspace
+20231125 17:14:30 list
+20231125 17:14:37 undo
+20231125 17:14:39 redo
+20231125 17:14:44 exit
+test1.md 0min29s
+test.md 0min29s
+session start at 20231125 17:14:50
+20231125 17:14:55 list-workspace
+20231125 17:15:28 exit
+test1.md 0min38s
+test.md 0min38s
+session start at 20231126 22:59:37
+20231126 22:59:46 list-workspace
+20231126 22:59:49 list
+20231126 22:59:55 insert 8 aaa
+20231126 23:00:11 load test1.md
+20231126 23:00:23 list-workspace
+20231126 23:00:32 exit
+test1.md 0min21s
+test.md 0min55s
+session start at 20231126 23:00:36
+20231126 23:00:43 list-workspace
+20231126 23:00:47 close
+session start at 20231126 23:05:00
+20231126 23:05:08 list-workspace
+20231126 23:05:47 close
+session start at 20231126 23:09:54
+20231126 23:09:58 close
+test1.md 0min4s
+20231126 23:10:05 list-workspace
+20231126 23:10:11 open test
+20231126 23:10:14 undo
+20231126 23:10:21 exit
+test.md 0min27s
+session start at 20231126 23:10:38
+20231126 23:10:40 redo
+20231126 23:10:50 save
+20231126 23:10:52 close
+test.md 0min14s
+20231126 23:10:55 exit
+session start at 20231127 15:38:14
+session start at 20231127 15:39:42
+20231127 15:39:52 load test1.md
+20231127 15:40:27 append-head # 旅行清单
+20231127 15:40:33 append-tail ## 亚洲
+20231127 15:40:38 append-tail 1.中国
+20231127 15:40:43 append-tail 2.日本
+20231127 15:40:49 load test2.md
+20231127 15:40:58 append-head # 书籍推荐
+20231127 15:41:04 append-tail ## 编程
+20231127 15:41:11 append-tail *《设计模式的艺术》
+20231127 15:41:18 append-tail *《云原生: 运用容器、函数计算和数据构建下一代应用》
+20231127 15:41:25 append-tail *《深入理解Java虚拟机》
+20231127 15:41:31 list-tree
+20231127 15:41:42 list-workspace
+20231127 15:41:46 save
+20231127 15:41:51 list-workspace
+20231127 15:41:57 open test1
+20231127 15:42:02 list-workspace
+20231127 15:43:31 close
+test1.md 3min39s
+20231127 15:43:37 open test2
+20231127 15:43:38 close
+test2.md 2min49s
+20231127 15:43:41 exit
+session start at 20231127 15:43:46
+20231127 15:44:06 load test3.md
+20231127 15:44:10 insert 6 ## 程序设计
+20231127 15:44:14 append-head # 我的资源
+20231127 15:44:18 append-tail ###软件设计
+20231127 15:44:36 close
+test3.md 0min30s
+20231127 15:44:45 load test3.md
+20231127 15:44:56 insert 1 ## 程序设计
+20231127 15:45:01 append-head # 我的资源
+20231127 15:45:06 append-tail ###软件设计
+20231127 15:45:11 load test4.md
+20231127 15:45:15 append-head # 大学合集
+20231127 15:45:23 append-tail 1.复目大学
+20231127 15:45:28 append-tail 2.上海交通大学
+20231127 15:45:33 close
+test4.md 0min22s
+20231127 15:45:40 open test3
+20231127 15:45:45 list-workspace
+20231127 15:45:48 exit
+test3.md 1min3s
+session start at 20231127 15:46:30
+20231127 15:46:34 load test5.md
+20231127 15:46:39 append-head # 书籍推荐
+20231127 15:46:48 append-tail *《深入理解计算机系统》
+20231127 15:46:50 ls
+20231127 15:47:17 close
+test5.md 0min43s
+20231127 15:47:22 open test3
+20231127 15:47:24 close
+test3.md 0min54s
+20231127 15:47:27 exit
+session start at 20231127 15:47:44
+20231127 15:47:49 load test6.md
+20231127 15:47:54 insert 1 ## 程序设计
+20231127 15:47:58 append-head # 我的资源
+20231127 15:48:02 append-tail ### 软件设计
+20231127 15:48:06 save
+20231127 15:48:11 load test7.md
+20231127 15:48:16 append-head # 大学合集
+20231127 15:48:20 append-tail 1.复旦大学
+20231127 15:48:25 append-tail 2.上海交通大学
+20231127 15:48:27 undo
+20231127 15:48:31 list-tree
+20231127 15:48:34 save
+20231127 15:48:36 exit
+test6.md 0min47s
+test7.md 0min25s
+session start at 20231127 15:48:43
+20231127 15:48:51 list-workspace
+20231127 15:49:02 list-tree
+session start at 20231127 15:52:05
+20231127 15:52:18 list-workspace
+20231127 15:52:27 close
+test7.md 0min22s
+20231127 15:52:39 open test6
+20231127 15:52:44 close
+test6.md 0min39s
+20231127 15:52:51 load test6.md
+20231127 15:52:56 insert 1 ## 程序设计
+20231127 15:53:01 append-head # 我的资源
+20231127 15:53:05 append-tail ### 软件设计
+20231127 15:53:11 save
+20231127 15:53:16 load test7.md
+20231127 15:53:21 append-head # 大学合集
+20231127 15:53:26 append-tail 1.复旦大学
+20231127 15:53:31 append-tail 2.上海交通大学
+20231127 15:53:35 undo
+20231127 15:53:40 list-tree
+20231127 15:53:42 save
+20231127 15:53:45 exit
+test6.md 0min54s
+test7.md 0min29s
+session start at 20231127 15:53:49
+20231127 15:53:57 list-workspace
+20231127 15:54:01 redo
+20231127 15:54:07 list-tree
+session start at 20231127 16:10:30
+20231127 16:10:36 list-workspace
+20231127 16:10:40 list-tree
+20231127 16:10:45 close
+test7.md 0min15s
+20231127 16:10:50 load test1.md
+20231127 16:10:54 list-tree
+20231127 16:11:10 close
+test1.md 0min20s
+20231127 16:11:15 load test2.md
+20231127 16:11:18 list-tree
+20231127 16:14:17 exit
+test2.md 3min2s
+test6.md 3min47s
+session start at 20231127 16:14:23
+20231127 16:14:26 list-tree
+session start at 20231127 16:15:59
+session start at 20231127 16:17:10
+20231127 16:17:16 list-tree
+20231127 16:17:23 close
+test2.md 0min13s
+20231127 16:17:26 load test2.md
+20231127 16:17:29 list-tree
+session start at 20231127 16:30:18
+20231127 16:30:28 list-workspace
+20231127 16:31:20 open sss
+20231127 16:31:23 list
+20231127 16:36:34 close
+sss.md 5min14s
+session start at 20231127 16:36:43
+20231127 16:36:55 list-workspace
+session start at 20231127 16:37:34
+20231127 16:37:42 load test.md
+20231127 16:37:44 list
+20231127 16:37:49 list-tree
+20231127 16:37:52 close
+test.md 0min10s
+20231127 16:37:56 list-workspace
+session start at 20231127 18:24:32
+20231127 18:24:32 load test2.md
+20231127 18:24:32 append-head # 旅⾏清单
+20231127 18:24:32 append-tail ## 亚洲
+20231127 18:24:32 append-tail 1. 中国
+20231127 18:24:32 append-tail 2. ⽇本
+20231127 18:24:32 delete 亚洲
+20231127 18:24:32 undo
+20231127 18:24:32 redo
+20231127 18:24:32 list-tree
+20231127 18:24:32 save
+20231127 18:24:32 exit
+test2.md 0min0s
+session start at 20231127 18:24:32
+20231127 18:24:32 load test5.md
+20231127 18:24:32 append-head # 旅⾏清单
+20231127 18:24:32 append-tail ## 欧洲
+20231127 18:24:32 insert 2 ## 亚洲
+20231127 18:24:32 insert 3 1. 中国
+20231127 18:24:32 insert 4 2. ⽇本
+20231127 18:24:32 save
+20231127 18:24:32 list-tree
+20231127 18:24:32 delete 亚洲
+20231127 18:24:32 list-tree
+20231127 18:24:32 history
+20231127 18:24:32 undo
+20231127 18:24:32 list-tree
+20231127 18:24:32 redo
+20231127 18:24:32 list-tree
+20231127 18:24:32 list-tree
+20231127 18:24:32 save
+20231127 18:24:32 exit
+test2.md 0min0s
+test5.md 0min0s
+session start at 20231127 18:24:32
+20231127 18:24:32 load test.md
+20231127 18:24:32 exit
+test2.md 0min0s
+test5.md 0min0s
+test.md 0min0s
+session start at 20231127 18:24:32
+20231127 18:24:32 save
+20231127 18:24:32 exit
+test2.md 0min0s
+test5.md 0min0s
+test.md 0min0s
+session start at 20231127 18:24:33
+20231127 18:24:33 load test3.md
+20231127 18:24:33 append-head # 书籍推荐
+20231127 18:24:33 append-tail * 《深入理解计算机系统》
+20231127 18:24:33 undo
+20231127 18:24:33 append-tail ## 编程
+20231127 18:24:33 append-tail * 《设计模式的艺术》
+20231127 18:24:33 list-tree
+20231127 18:24:33 append-tail * 《云原⽣：运⽤容器、函数计算和数据构建下⼀代应⽤》
+20231127 18:24:33 append-tail * 《深入理解Java虚拟机》
+20231127 18:24:33 undo
+20231127 18:24:33 redo
+20231127 18:24:33 list-tree
+20231127 18:24:33 save
+20231127 18:24:33 exit
+test3.md 0min0s
+test.md 0min0s
+session start at 20231127 18:24:33
+20231127 18:24:33 load test4.md
+20231127 18:24:33 append-head # 旅⾏清单
+20231127 18:24:33 append-tail ## 亚洲
+20231127 18:24:33 save
+20231127 18:24:33 append-tail 1. 中国
+20231127 18:24:33 append-tail 2. ⽇本
+20231127 18:24:33 append-tail ## 欧洲
+20231127 18:24:33 list-tree
+20231127 18:24:33 list-tree
+session start at 20231127 18:24:33
+20231127 18:24:33 load test1.md
+20231127 18:24:33 insert 5 ## 程序设计
+20231127 18:24:33 append-head # 我的资源
+20231127 18:24:33 append-tail ### 软件设计
+20231127 18:24:33 append-tail #### 设计模式
+20231127 18:24:33 append-tail 1. 观察者模式
+20231127 18:24:33 append-tail 3. 单例模式
+20231127 18:24:33 insert 6 2. 策略模式
+20231127 18:24:33 delete 单例模式
+20231127 18:24:33 append-tail 3. 组合模式
+20231127 18:24:33 list-tree
+20231127 18:24:33 append-tail ## ⼯具箱
+20231127 18:24:33 append-tail ### Adobe
+20231127 18:24:33 list-tree
+20231127 18:24:33 save
+20231127 18:24:33 exit
+test3.md 0min0s
+test1.md 0min0s
+test.md 0min0s
+session start at 20231127 18:33:24
+20231127 18:33:24 load test2.md
+20231127 18:33:24 append-head # 旅⾏清单
+20231127 18:33:24 append-tail ## 亚洲
+20231127 18:33:24 append-tail 1. 中国
+20231127 18:33:24 append-tail 2. ⽇本
+20231127 18:33:24 delete 亚洲
+20231127 18:33:24 undo
+20231127 18:33:24 redo
+20231127 18:33:24 list-tree
+20231127 18:33:24 save
+20231127 18:33:24 exit
+test2.md 0min0s
+test3.md 0min0s
+test1.md 0min0s
+test.md 0min0s
+session start at 20231127 18:33:24
+20231127 18:33:24 load test5.md
+20231127 18:33:24 append-head # 旅⾏清单
+20231127 18:33:24 append-tail ## 欧洲
+20231127 18:33:24 insert 2 ## 亚洲
+20231127 18:33:24 insert 3 1. 中国
+20231127 18:33:24 insert 4 2. ⽇本
+20231127 18:33:24 save
+20231127 18:33:24 list-tree
+20231127 18:33:24 delete 亚洲
+20231127 18:33:24 list-tree
+20231127 18:33:24 history
+20231127 18:33:24 undo
+20231127 18:33:24 list-tree
+20231127 18:33:24 redo
+20231127 18:33:24 list-tree
+20231127 18:33:24 list-tree
+20231127 18:33:24 save
+20231127 18:33:24 exit
+test2.md 0min0s
+test3.md 0min0s
+test1.md 0min0s
+test5.md 0min0s
+test.md 0min0s
+session start at 20231127 18:33:24
+20231127 18:33:24 exit
+test2.md 0min0s
+test3.md 0min0s
+test1.md 0min0s
+test5.md 0min0s
+test.md 0min0s
+session start at 20231127 18:33:24
+20231127 18:33:24 save
+20231127 18:33:24 exit
+test2.md 0min0s
+test3.md 0min0s
+test1.md 0min0s
+test5.md 0min0s
+test.md 0min0s
+session start at 20231127 18:33:26
+20231127 18:33:26 load test3.md
+20231127 18:33:26 append-head # 书籍推荐
+20231127 18:33:26 append-tail * 《深入理解计算机系统》
+20231127 18:33:26 undo
+20231127 18:33:26 append-tail ## 编程
+20231127 18:33:26 append-tail * 《设计模式的艺术》
+20231127 18:33:26 list-tree
+20231127 18:33:26 append-tail * 《云原⽣：运⽤容器、函数计算和数据构建下⼀代应⽤》
+20231127 18:33:26 append-tail * 《深入理解Java虚拟机》
+20231127 18:33:26 undo
+20231127 18:33:26 redo
+20231127 18:33:26 list-tree
+20231127 18:33:26 save
+20231127 18:33:26 exit
+test3.md 0min0s
+test.md 0min0s
+session start at 20231127 18:33:26
+20231127 18:33:26 load test4.md
+20231127 18:33:26 append-head # 旅⾏清单
+20231127 18:33:26 append-tail ## 亚洲
+20231127 18:33:26 save
+20231127 18:33:26 append-tail 1. 中国
+20231127 18:33:26 append-tail 2. ⽇本
+20231127 18:33:26 append-tail ## 欧洲
+20231127 18:33:26 list-tree
+20231127 18:33:26 list-tree
+session start at 20231127 18:33:26
+20231127 18:33:26 load test1.md
+20231127 18:33:26 insert 14 ## 程序设计
+20231127 18:33:26 append-head # 我的资源
+20231127 18:33:26 append-tail ### 软件设计
+20231127 18:33:26 append-tail #### 设计模式
+20231127 18:33:26 append-tail 1. 观察者模式
+20231127 18:33:26 append-tail 3. 单例模式
+20231127 18:33:26 insert 6 2. 策略模式
+20231127 18:33:26 delete 单例模式
+20231127 18:33:26 append-tail 3. 组合模式
+20231127 18:33:26 list-tree
+20231127 18:33:26 append-tail ## ⼯具箱
+20231127 18:33:26 append-tail ### Adobe
+20231127 18:33:26 list-tree
+20231127 18:33:26 save
+20231127 18:33:26 exit
+test3.md 0min0s
+test1.md 0min0s
+test.md 0min0s
+session start at 20231127 18:36:33
+20231127 18:36:33 load test2.md
+20231127 18:36:33 append-head # 旅⾏清单
+20231127 18:36:33 append-tail ## 亚洲
+20231127 18:36:33 append-tail 1. 中国
+20231127 18:36:33 append-tail 2. ⽇本
+20231127 18:36:33 delete 亚洲
+20231127 18:36:33 undo
+20231127 18:36:33 redo
+20231127 18:36:33 list-tree
+20231127 18:36:33 save
+20231127 18:36:33 exit
+test2.md 0min0s
+test3.md 0min0s
+test1.md 0min0s
+test.md 0min0s
+session start at 20231127 18:36:33
+20231127 18:36:33 load test5.md
+20231127 18:36:33 append-head # 旅⾏清单
+20231127 18:36:33 append-tail ## 欧洲
+20231127 18:36:33 insert 2 ## 亚洲
+20231127 18:36:33 insert 3 1. 中国
+20231127 18:36:33 insert 4 2. ⽇本
+20231127 18:36:33 save
+20231127 18:36:33 list-tree
+20231127 18:36:33 delete 亚洲
+20231127 18:36:33 list-tree
+20231127 18:36:33 history
+20231127 18:36:33 undo
+20231127 18:36:33 list-tree
+20231127 18:36:33 redo
+20231127 18:36:33 list-tree
+20231127 18:36:33 list-tree
+20231127 18:36:33 save
+20231127 18:36:33 exit
+test2.md 0min0s
+test3.md 0min0s
+test1.md 0min0s
+test5.md 0min0s
+test.md 0min0s
+session start at 20231127 18:36:33
+20231127 18:36:33 exit
+test2.md 0min0s
+test3.md 0min0s
+test1.md 0min0s
+test5.md 0min0s
+test.md 0min0s
+session start at 20231127 18:36:33
+20231127 18:36:33 save
+20231127 18:36:33 exit
+test2.md 0min0s
+test3.md 0min0s
+test1.md 0min0s
+test5.md 0min0s
+test.md 0min0s
+session start at 20231127 18:36:34
+20231127 18:36:34 load test3.md
+20231127 18:36:34 append-head # 书籍推荐
+20231127 18:36:34 append-tail * 《深入理解计算机系统》
+20231127 18:36:34 undo
+20231127 18:36:34 append-tail ## 编程
+20231127 18:36:34 append-tail * 《设计模式的艺术》
+20231127 18:36:34 list-tree
+20231127 18:36:34 append-tail * 《云原⽣：运⽤容器、函数计算和数据构建下⼀代应⽤》
+20231127 18:36:34 append-tail * 《深入理解Java虚拟机》
+20231127 18:36:34 undo
+20231127 18:36:34 redo
+20231127 18:36:34 list-tree
+20231127 18:36:34 save
+20231127 18:36:34 exit
+test3.md 0min0s
+test.md 0min0s
+session start at 20231127 18:36:34
+20231127 18:36:34 load test4.md
+20231127 18:36:34 append-head # 旅⾏清单
+20231127 18:36:34 append-tail ## 亚洲
+20231127 18:36:34 save
+20231127 18:36:34 append-tail 1. 中国
+20231127 18:36:34 append-tail 2. ⽇本
+20231127 18:36:34 append-tail ## 欧洲
+20231127 18:36:34 list-tree
+20231127 18:36:34 list-tree
+session start at 20231127 18:36:34
+20231127 18:36:34 load test1.md
+20231127 18:36:34 insert 23 ## 程序设计
+20231127 18:36:34 append-head # 我的资源
+20231127 18:36:34 append-tail ### 软件设计
+20231127 18:36:34 append-tail #### 设计模式
+20231127 18:36:34 append-tail 1. 观察者模式
+20231127 18:36:34 append-tail 3. 单例模式
+20231127 18:36:34 insert 6 2. 策略模式
+20231127 18:36:34 delete 单例模式
+20231127 18:36:34 append-tail 3. 组合模式
+20231127 18:36:34 list-tree
+20231127 18:36:34 append-tail ## ⼯具箱
+20231127 18:36:34 append-tail ### Adobe
+20231127 18:36:34 list-tree
+20231127 18:36:34 save
+20231127 18:36:34 exit
+test3.md 0min0s
+test1.md 0min0s
+test.md 0min0s
+session start at 20231127 18:38:14
+20231127 18:38:14 load test2.md
+20231127 18:38:14 append-head # 旅⾏清单
+20231127 18:38:14 append-tail ## 亚洲
+20231127 18:38:14 append-tail 1. 中国
+20231127 18:38:14 append-tail 2. ⽇本
+20231127 18:38:14 delete 亚洲
+20231127 18:38:14 undo
+20231127 18:38:14 redo
+20231127 18:38:14 list-tree
+20231127 18:38:14 save
+20231127 18:38:14 exit
+test2.md 0min0s
+test3.md 0min0s
+test1.md 0min0s
+test.md 0min0s
+session start at 20231127 18:38:14
+20231127 18:38:14 load test5.md
+20231127 18:38:14 append-head # 旅⾏清单
+20231127 18:38:14 append-tail ## 欧洲
+20231127 18:38:14 insert 2 ## 亚洲
+20231127 18:38:14 insert 3 1. 中国
+20231127 18:38:14 insert 4 2. ⽇本
+20231127 18:38:14 save
+20231127 18:38:14 list-tree
+20231127 18:38:14 delete 亚洲
+20231127 18:38:14 list-tree
+20231127 18:38:14 history
+20231127 18:38:14 undo
+20231127 18:38:14 list-tree
+20231127 18:38:14 redo
+20231127 18:38:14 list-tree
+20231127 18:38:14 list-tree
+20231127 18:38:14 save
+20231127 18:38:14 exit
+test2.md 0min0s
+test3.md 0min0s
+test1.md 0min0s
+test5.md 0min0s
+test.md 0min0s
+session start at 20231127 18:38:14
+20231127 18:38:14 exit
+test2.md 0min0s
+test3.md 0min0s
+test1.md 0min0s
+test5.md 0min0s
+test.md 0min0s
+session start at 20231127 18:38:14
+20231127 18:38:14 save
+20231127 18:38:14 exit
+test2.md 0min0s
+test3.md 0min0s
+test1.md 0min0s
+test5.md 0min0s
+test.md 0min0s
+session start at 20231127 18:38:15
+20231127 18:38:15 load test3.md
+20231127 18:38:15 append-head # 书籍推荐
+20231127 18:38:15 append-tail * 《深入理解计算机系统》
+20231127 18:38:15 undo
+20231127 18:38:15 append-tail ## 编程
+20231127 18:38:15 append-tail * 《设计模式的艺术》
+20231127 18:38:15 list-tree
+20231127 18:38:15 append-tail * 《云原⽣：运⽤容器、函数计算和数据构建下⼀代应⽤》
+20231127 18:38:15 append-tail * 《深入理解Java虚拟机》
+20231127 18:38:15 undo
+20231127 18:38:15 redo
+20231127 18:38:15 list-tree
+20231127 18:38:15 save
+20231127 18:38:15 exit
+test3.md 0min0s
+test.md 0min0s
+session start at 20231127 18:38:15
+20231127 18:38:15 load test4.md
+20231127 18:38:15 append-head # 旅⾏清单
+20231127 18:38:15 append-tail ## 亚洲
+20231127 18:38:15 save
+20231127 18:38:15 append-tail 1. 中国
+20231127 18:38:15 append-tail 2. ⽇本
+20231127 18:38:15 append-tail ## 欧洲
+20231127 18:38:15 list-tree
+20231127 18:38:15 list-tree
+session start at 20231127 18:38:15
+20231127 18:38:15 load test1.md
+20231127 18:38:15 insert 32 ## 程序设计
+20231127 18:38:15 append-head # 我的资源
+20231127 18:38:15 append-tail ### 软件设计
+20231127 18:38:15 append-tail #### 设计模式
+20231127 18:38:15 append-tail 1. 观察者模式
+20231127 18:38:15 append-tail 3. 单例模式
+20231127 18:38:15 insert 6 2. 策略模式
+20231127 18:38:15 delete 单例模式
+20231127 18:38:15 append-tail 3. 组合模式
+20231127 18:38:15 list-tree
+20231127 18:38:15 append-tail ## ⼯具箱
+20231127 18:38:15 append-tail ### Adobe
+20231127 18:38:15 list-tree
+20231127 18:38:15 save
+20231127 18:38:15 exit
+test3.md 0min0s
+test1.md 0min0s
+test.md 0min0s
+session start at 20231127 18:39:12
+20231127 18:39:12 load test4.md
+20231127 18:39:12 append-head # 旅⾏清单
+20231127 18:39:12 append-tail ## 亚洲
+20231127 18:39:12 save
+20231127 18:39:12 append-tail 1. 中国
+20231127 18:39:12 append-tail 2. ⽇本
+20231127 18:39:12 append-tail ## 欧洲
+20231127 18:39:12 open test3
+20231127 18:39:12 list-tree
+20231127 18:39:12 open test4
+20231127 18:39:12 list-tree
+session start at 20231127 18:40:27
+20231127 18:40:27 load test4.md
+20231127 18:40:27 append-head # 旅⾏清单
+20231127 18:40:27 append-tail ## 亚洲
+20231127 18:40:27 save
+20231127 18:40:27 append-tail 1. 中国
+20231127 18:40:27 append-tail 2. ⽇本
+20231127 18:40:27 append-tail ## 欧洲
+20231127 18:40:27 open test3
+20231127 18:40:27 list-tree
+20231127 18:40:27 open test4
+20231127 18:40:27 list-tree
+session start at 20231127 18:41:02
+20231127 18:41:02 load test4.md
+20231127 18:41:02 append-head # 旅⾏清单
+20231127 18:41:02 append-tail ## 亚洲
+20231127 18:41:02 save
+20231127 18:41:02 append-tail 1. 中国
+20231127 18:41:02 append-tail 2. ⽇本
+20231127 18:41:02 append-tail ## 欧洲
+20231127 18:41:02 open test3
+20231127 18:41:02 list-tree
+20231127 18:41:02 open test4
+20231127 18:41:02 list-tree
+20231127 18:41:02 save
+20231127 18:41:02 exit
+test3.md 0min0s
+test1.md 0min0s
+test.md 0min0s
+test4.md 0min0s
+session start at 20231127 18:41:09
+20231127 18:41:09 append-head # 旅⾏清单
+20231127 18:41:09 append-tail ## 亚洲
+20231127 18:41:09 save
+20231127 18:41:09 append-tail 1. 中国
+20231127 18:41:09 append-tail 2. ⽇本
+20231127 18:41:09 append-tail ## 欧洲
+20231127 18:41:09 open test3
+20231127 18:41:09 list-tree
+20231127 18:41:09 open test4
+20231127 18:41:09 list-tree
+20231127 18:41:09 save
+20231127 18:41:09 exit
+test3.md 0min0s
+test1.md 0min0s
+test.md 0min0s
+test4.md 0min0s
+session start at 20231127 18:41:19
+20231127 18:41:19 load test2.md
+20231127 18:41:19 append-head # 旅⾏清单
+20231127 18:41:19 append-tail ## 亚洲
+20231127 18:41:19 append-tail 1. 中国
+20231127 18:41:19 append-tail 2. ⽇本
+20231127 18:41:19 delete 亚洲
+20231127 18:41:19 undo
+20231127 18:41:19 redo
+20231127 18:41:19 list-tree
+20231127 18:41:19 save
+20231127 18:41:19 exit
+test2.md 0min0s
+test3.md 0min0s
+test1.md 0min0s
+test.md 0min0s
+test4.md 0min0s
+session start at 20231127 18:41:19
+20231127 18:41:19 load test5.md
+20231127 18:41:19 append-head # 旅⾏清单
+20231127 18:41:19 append-tail ## 欧洲
+20231127 18:41:19 insert 2 ## 亚洲
+20231127 18:41:19 insert 3 1. 中国
+20231127 18:41:19 insert 4 2. ⽇本
+20231127 18:41:19 save
+20231127 18:41:19 list-tree
+20231127 18:41:19 delete 亚洲
+20231127 18:41:19 list-tree
+20231127 18:41:19 history
+20231127 18:41:19 undo
+20231127 18:41:19 list-tree
+20231127 18:41:19 redo
+20231127 18:41:19 list-tree
+20231127 18:41:19 list-tree
+20231127 18:41:19 save
+20231127 18:41:19 exit
+test2.md 0min0s
+test3.md 0min0s
+test1.md 0min0s
+test5.md 0min0s
+test.md 0min0s
+test4.md 0min0s
+session start at 20231127 18:41:19
+20231127 18:41:19 exit
+test2.md 0min0s
+test3.md 0min0s
+test1.md 0min0s
+test5.md 0min0s
+test.md 0min0s
+test4.md 0min0s
+session start at 20231127 18:41:19
+20231127 18:41:19 save
+20231127 18:41:19 exit
+test2.md 0min0s
+test3.md 0min0s
+test1.md 0min0s
+test5.md 0min0s
+test.md 0min0s
+test4.md 0min0s
+session start at 20231127 18:41:20
+20231127 18:41:20 load test3.md
+20231127 18:41:20 append-head # 书籍推荐
+20231127 18:41:20 append-tail * 《深入理解计算机系统》
+20231127 18:41:20 undo
+20231127 18:41:20 append-tail ## 编程
+20231127 18:41:20 append-tail * 《设计模式的艺术》
+20231127 18:41:20 list-tree
+20231127 18:41:20 append-tail * 《云原⽣：运⽤容器、函数计算和数据构建下⼀代应⽤》
+20231127 18:41:20 append-tail * 《深入理解Java虚拟机》
+20231127 18:41:20 undo
+20231127 18:41:20 redo
+20231127 18:41:20 list-tree
+20231127 18:41:20 save
+20231127 18:41:20 exit
+test3.md 0min0s
+test.md 0min0s
+session start at 20231127 18:41:20
+20231127 18:41:20 load test4.md
+20231127 18:41:20 append-head # 旅⾏清单
+20231127 18:41:20 append-tail ## 亚洲
+20231127 18:41:20 save
+20231127 18:41:20 append-tail 1. 中国
+20231127 18:41:20 append-tail 2. ⽇本
+20231127 18:41:20 append-tail ## 欧洲
+20231127 18:41:20 open test3
+20231127 18:41:20 list-tree
+20231127 18:41:20 open test4
+20231127 18:41:20 list-tree
+20231127 18:41:20 save
+20231127 18:41:20 exit
+test3.md 0min0s
+test.md 0min0s
+test4.md 0min0s
+session start at 20231127 18:41:20
+20231127 18:41:20 load test1.md
+20231127 18:41:20 insert 41 ## 程序设计
+20231127 18:41:20 append-head # 我的资源
+20231127 18:41:20 append-tail ### 软件设计
+20231127 18:41:20 append-tail #### 设计模式
+20231127 18:41:20 append-tail 1. 观察者模式
+20231127 18:41:20 append-tail 3. 单例模式
+20231127 18:41:20 insert 6 2. 策略模式
+20231127 18:41:20 delete 单例模式
+20231127 18:41:20 append-tail 3. 组合模式
+20231127 18:41:20 list-tree
+20231127 18:41:20 append-tail ## ⼯具箱
+20231127 18:41:20 append-tail ### Adobe
+20231127 18:41:20 list-tree
+20231127 18:41:20 save
+20231127 18:41:20 exit
+test3.md 0min0s
+test1.md 0min0s
+test.md 0min0s
+test4.md 0min0s
+session start at 20231127 18:46:03
+20231127 18:46:08 list-workspace
+20231127 18:46:10 close
+test1.md 0min7s
+20231127 18:46:14 open test
+20231127 18:46:15 close
+test.md 0min12s
+20231127 18:46:22 open test3
+20231127 18:46:23 close
+test3.md 0min20s
+20231127 18:46:27 open test4
+20231127 18:46:29 close
+test4.md 0min26s
+20231127 18:46:33 list-workspace
+20231127 18:46:39 exit
+session start at 20231127 18:47:14
+20231127 18:47:33 load test1.md
+20231127 18:47:39 append-head # 旅行清单
+20231127 18:47:45 append-tail ## 亚洲
+20231127 18:47:53 append-tail 1. 中国
+20231127 18:48:00 append-tail 2.日本
+20231127 18:48:07 undo
+20231127 18:48:10 append-tail 2. 日本
+20231127 18:48:17 load test2.md
+20231127 18:48:22 append-head # 书籍推荐
+20231127 18:48:26 append-tail ## 编程
+20231127 18:48:40 append-tail * 《设计模式的艺术》
+20231127 18:48:50 append-tail * 《云原生: 运用容器、函数计算和数据构建下一代应用》
+20231127 18:48:58 append-tail * 《深入理解Java虚拟机》
+20231127 18:49:05 list-tree
+20231127 18:49:34 list-workspace
+20231127 18:49:38 save
+20231127 18:49:41 list-workspace
+20231127 18:49:47 open test1
+20231127 18:49:48 list-workspace
+20231127 18:50:18 save
+20231127 18:50:30 close
+test1.md 2min57s
+20231127 18:50:35 open test2
+20231127 18:50:37 close
+test2.md 2min20s
+20231127 18:50:54 list-workspace
+20231127 18:50:57 load test3.md
+20231127 18:51:10 insert 1 ## 程序设计
+20231127 18:51:21 append-head # 我的资源
+20231127 18:51:27 append-tail ### 软件设计
+20231127 18:51:35 load test4.md
+20231127 18:51:41 append-head # 大学合集
+20231127 18:51:54 append-tail 1. 复旦大学
+20231127 18:52:02 append-tail 2. 上海交通大学
+20231127 18:52:08 close
+test4.md 0min33s
+20231127 18:52:16 open test3
+20231127 18:52:22 list-workspace
+20231127 18:52:27 exit
+test3.md 1min30s
+session start at 20231127 18:53:35
+20231127 18:53:43 close
+test3.md 0min8s
+20231127 18:53:48 list-workspace
+20231127 18:53:54 load test5.md
+20231127 18:53:58 append-head # 书籍推荐
+20231127 18:54:08 append-tail * 《深入理解计算机系统》
+20231127 18:54:10 ls
+20231127 18:54:43 close
+test5.md 0min49s
+20231127 18:54:57 load test6.md
+20231127 18:55:02 insert 1 ## 程序设计
+20231127 18:55:10 append-head # 我的资源
+20231127 18:55:17 append-tail ### 软件设计
+20231127 18:55:20 save
+20231127 18:55:27 load test7.md
+20231127 18:55:33 append-head # 大学合集
+20231127 18:55:39 append-tail 1.复旦大学
+20231127 18:55:49 append-tail 2.上海交通大学
+20231127 18:55:54 undo
+20231127 18:55:58 list-tree
+20231127 18:56:07 save
+20231127 18:56:09 exit
+test6.md 1min12s
+test7.md 0min42s
+session start at 20231127 18:56:22
+20231127 18:56:41 close
+test7.md 0min19s
+20231127 18:56:46 list-workspace
+20231127 18:56:50 open test6
+20231127 18:56:52 close
+test6.md 0min30s
+20231127 18:57:04 load test6.md
+20231127 18:57:08 insert 1 ## 程序设计
+20231127 18:57:12 append-head # 我的资源
+20231127 18:57:16 append-tail ### 软件设计
+20231127 18:57:19 save
+20231127 18:57:24 load test7.md
+20231127 18:57:30 append-head # 大学合集
+20231127 18:57:36 append-tail 1. 复旦大学
+20231127 18:57:42 append-tail 2. 上海交通大学
+20231127 18:57:48 undo
+20231127 18:57:52 list-tree
+20231127 18:57:54 save
+20231127 18:57:56 exit
+test6.md 0min52s
+test7.md 0min32s
+session start at 20231127 18:58:24
+20231127 18:58:32 list-workspace
+20231127 18:58:36 redo
+20231127 18:58:40 list-tree
+20231127 19:03:30 close
+test7.md 5min6s
+20231127 19:03:35 open test6
+20231127 19:03:36 close
+test6.md 5min12s
+20231127 19:03:42 load a.md
+20231127 19:03:53 append-head # head1
+20231127 19:03:55 save
+20231127 19:04:00 load b.md
+20231127 19:04:07 append-head # head2
+20231127 19:04:12 list-workspace
+20231127 19:05:56 close
+b.md 1min56s
+20231127 19:05:59 open a
+20231127 19:06:02 close
+a.md 2min20s
+20231127 19:06:08 load a.md
+20231127 19:06:13 append-head # head1
+20231127 19:06:17 save
+20231127 19:06:20 load b.md
+20231127 19:06:24 append-head # head2
+20231127 19:06:28 list-workspace
+20231127 19:08:00 open a
+20231127 19:08:06 list-workspace
+20231127 19:08:54 close
+a.md 2min46s
+20231127 19:08:56 open b
+20231127 19:09:00 close
+b.md 2min40s
+20231127 19:09:50 load a.md
+20231127 19:09:55 insert 3 aaa
+20231127 19:09:59 load b.md
+20231127 19:10:02 insert 2 bbb
+20231127 19:10:20 exit
+a.md 0min30s
+b.md 0min21s
+session start at 20231127 19:10:31
+20231127 19:10:37 list-workspace
+20231127 19:10:44 exit
+a.md 0min13s
+b.md 0min13s
